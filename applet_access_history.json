@@ -1,0 +1,25 @@
+{
+  "applets": [{
+    "lastAccessTime": "2026-01-09T22:39:46.389366Z",
+    "firstAccessTime": "2026-01-09T22:30:23.786505Z",
+    "source": {
+      "sourceType": "DRIVE",
+      "drive": {
+        "resourceId": "1Mu9fL6F4T9xy_0J15Ws9es-QfnQ2QG-r"
+      }
+    },
+    "name": "AppEngine AI",
+    "description": "منصة احترافية لتوليد تطبيقات الويب والجوال المتكاملة باستخدام الذكاء الاصطناعي، مع إدارة كاملة لقواعد البيانات والأمان."
+  }, {
+    "lastAccessTime": "2026-01-09T15:33:23.313934Z",
+    "firstAccessTime": "2026-01-09T11:54:50.535840Z",
+    "source": {
+      "drive": {
+        "resourceId": "1X41CO-to4Flkjw1UYWM4izYOOE4CZrpY",
+        "revisionId": "0B6CJh41hO86MejZ4Y1RwNHBjVyt3dmdHZTRaSUlDdkRQUUxFPQ"
+      }
+    },
+    "name": "NexusERP Enterprise Management",
+    "description": "A professional enterprise resource planning system with multi-tenant subscriber management, AI insights, and cross-platform mobile support."
+  }]
+}
